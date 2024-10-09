@@ -1,6 +1,6 @@
 # Car Parking Sensor Using ATmega32, Ultrasonic Sensor, LCD Display, LEDs, and Buzzer
 
-![Screenshot](docs/Screenshot.jpg)
+![Screenshot](docs/Screenshot.png)
 
 ## Project Overview
 This project is a car parking sensor system that helps drivers detect obstacles and avoid collisions while parking. The system uses an ultrasonic sensor to measure the distance between the car and an obstacle, displaying this distance on an LCD screen. LEDs and a buzzer provide visual and auditory warnings based on the proximity of the object, ensuring safe parking.
