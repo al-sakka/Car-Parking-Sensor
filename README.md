@@ -57,12 +57,10 @@ The aim of this project is to create a simple car parking sensor that:
 
 ## Drivers Requirements
 ### GPIO Driver
-- Use the GPIO driver from the course.
 
 ### ICU Driver
 - Frequency set to F_CPU/8.
 - Configured to detect the rising edge.
-- Used in Ultrasonic_init and Ultrasonic_setCallBack functions.
 
 ### Buzzer Driver
 - **Buzzer_init**: Initializes and turns off the buzzer.
@@ -70,7 +68,7 @@ The aim of this project is to create a simple car parking sensor that:
 - **Buzzer_off**: Deactivates the buzzer.
 
 ### LCD Driver
-- Use the 4-bit mode LCD driver from the course.
+- Used the 4-bit mode LCD driver.
 - Displays distance and "Stop" message as needed.
 
 ### Ultrasonic Driver
